@@ -2,14 +2,13 @@
 
 ## Contexto e Objetivos
 
-Este projeto foi desenvolvido com o objetivo de utilizar Inteligência Artificial como ferramenta de apoio ao aprendizado sobre Git e Github, organizando e sintetizando conteúdos do tema com o uso do [NotebookLM](https://notebooklm.google.com/).
+Este projeto foi desenvolvido com o objetivo de utilizar Inteligência Artificial como ferramenta de apoio ao aprendizado sobre Git e Github, organizando e sintetizando conteúdos do tema com o uso do [NotebookLM](https://notebooklm.google.com/). Além disso, sua elaboração faz parte do atendimento ao desafio proposto no curso [Afya - Data Automation With AI](https://www.dio.me/en/bootcamp/afya-dados-bootcamp).
 
 Tema escolhido: **Git e GitHub para iniciantes**
 
 Objetivos:
 - Entender os conceitos principais do tema
-- Aprender os principais comandos
-- Compreender o fluxo de trabalho com GitHub
+- Aprender os principais comandos e funções
 - Utilizar a IA para estudos de conteúdos técnicos
 
 ---
@@ -19,9 +18,10 @@ Objetivos:
 As seguintes fontes foram utilizadas no NotebookLM:
 
 1. https://git-scm.com/docs/git
-2. https://docs.github.com/pt
-3. https://www.atlassian.com/git/tutorials
-4. https://www.freecodecamp.org/news/git-and-github-for-beginners/
+2. https://docs.github.com/
+3. https://www.freecodecamp.org/news/git-and-github-for-beginners/
+4. https://www.atlassian.com/git/tutorials
+5. https://www.youtube.com/watch?v=mAFoROnOfHs
 
 ---
 
