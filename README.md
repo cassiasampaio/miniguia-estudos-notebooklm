@@ -76,7 +76,7 @@ O fluxo básico envolve:
 
 ## 📖 Miniguia de Estudo
 
-### 📌 Resumo
+### Resumo
 
 Git é uma ferramenta essencial para controle de versões, permitindo que desenvolvedores acompanhem alterações em arquivos ao longo do tempo.
 
@@ -84,7 +84,7 @@ O GitHub complementa o Git, permitindo armazenar repositórios na nuvem e colabo
 
 ---
 
-### 📚 Glossário
+### Glossário
 
 - **Repositório:** Local onde o projeto é armazenado
 - **Commit:** Registro de uma alteração no projeto
@@ -96,7 +96,7 @@ O GitHub complementa o Git, permitindo armazenar repositórios na nuvem e colabo
 
 ---
 
-### 🔁 Prompts reutilizáveis
+### Prompts reutilizáveis
 
 - "Explique Git de forma simples"
 - "Qual a diferença entre Git e GitHub?"
