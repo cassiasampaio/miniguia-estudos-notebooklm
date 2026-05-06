@@ -57,8 +57,7 @@ Principais Funcionalidades do GitHub (Nuvem):
 - Gerenciamento de Projetos: Oferece ferramentas integradas como Issues (para rastrear problemas e tarefas) e quadros de projetos.
 - Comunidade e Open Source: Facilita a descoberta e contribuição em projetos de código aberto ao redor do mundo.
 
-Funcionalidades de Integração (Sincronização)
-Existem comandos que conectam o Git ao GitHub para manter os dados atualizados:
+Funcionalidades de Integração (comandos que conectam o Git ao GitHub):
 - Push (Enviar): Envia seus commits locais para o repositório remoto no GitHub.
 - Fetch e Pull (Trazer): O fetch baixa as novidades do servidor para o seu computador, enquanto o pull baixa e já as integra automaticamente ao seu diretório de trabalho.
 - Clone: Cria uma cópia local de um projeto que já existe no GitHub para que você possa começar a trabalhar nele.
