@@ -42,6 +42,7 @@ Embora sejam termos frequentemente usados juntos, Git e GitHub não são a mesma
 
 **Resposta:**
 As principais funcionalidades do Git e do GitHub dividem-se entre o controle de versões realizado localmente e as ferramentas de colaboração e hospedagem na nuvem.
+
 Principais Funcionalidades do Git (Local): 
 - Rastreamento de Alterações: O Git monitora cada mudança feita nos arquivos (quem mudou, o que mudou e quando), permitindo um registro completo do histórico do projeto.
 - Controle de Versão e "Viagem no Tempo": Ele permite salvar diferentes estados do seu trabalho. Caso ocorra um erro, você pode reverter para qualquer versão anterior sem perder dados.
